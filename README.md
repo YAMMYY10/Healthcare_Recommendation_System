@@ -23,6 +23,14 @@ The Healthcare Recommendation System is a software solution designed to assist i
 4. Rollout Strategy: Iterative development with feedback loops from users and healthcare professionals, gradual deployment to address any issues or improvements.
 Information Security/Privacy: Encryption, secure data handling practices, compliance with regulations like HIPAA, access controls, and authentication mechanisms to protect user privacy.
 
+**Survey**
+
+1.The system is the bulding block for healthcare recommendation systems, particularly in symptom-based analysis and doctor recommendation. 
+It aligns with ongoing market trends by incorporating features such as personalized recommendations, integration with real time data metrics, and telemedicine support which enhances its relevance and competitiveness in the evolving healthcare landscape.
+2. The model can provide accurate predictions of potential diseases based on user symptoms which is crucial in healthcare recommendation systems to ensure that users receive relevant and reliable information.
+3. Easy to use and acccessible which is a preferred facility by all kinds of users and hence can compete in the market.
+4. Model can be easily scaled and hence flexible to real time usage.
+
 **Getting Started**
 
 Clone the repository.
