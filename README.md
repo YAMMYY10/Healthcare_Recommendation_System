@@ -23,6 +23,16 @@ The Healthcare Recommendation System is a software solution designed to assist i
 4. Rollout Strategy: Iterative development with feedback loops from users and healthcare professionals, gradual deployment to address any issues or improvements.
 Information Security/Privacy: Encryption, secure data handling practices, compliance with regulations like HIPAA, access controls, and authentication mechanisms to protect user privacy.
 
+**Results**
+
+![DIsease_data](https://github.com/YAMMYY10/Healthcare_Recommendation_System/assets/104514779/92d09afa-ddc8-4970-b14c-a227c3d6f702)
+![symptom_prognosis](https://github.com/YAMMYY10/Healthcare_Recommendation_System/assets/104514779/8eb76560-4258-41aa-b1b2-e43e97bc40bc)
+![Naive_bayes](https://github.com/YAMMYY10/Healthcare_Recommendation_System/assets/104514779/d95f38ee-a709-4b9a-84d7-0a42051b4cf6)
+![Model_Accuracy](https://github.com/YAMMYY10/Healthcare_Recommendation_System/assets/104514779/b89fe719-59be-42e6-829e-0128db6fdd3b)
+![prediction](https://github.com/YAMMYY10/Healthcare_Recommendation_System/assets/104514779/3229db2f-0338-42a5-a62a-3868dba83d77)
+
+
+
 **Survey**
 
 1.The system is the bulding block for healthcare recommendation systems, particularly in symptom-based analysis and doctor recommendation. 
@@ -33,6 +43,7 @@ It aligns with ongoing market trends by incorporating features such as personali
 3. Easy to use and acccessible which is a preferred facility by all kinds of users and hence can compete in the market.
 
 4. Model can be easily scaled and hence flexible to real time usage.
+   
 
 **Getting Started**
 
